@@ -12,16 +12,17 @@ Password: developer
 
 ## VMWare config
 
-I have given the image 2gb of ram and 2 CPU cores. If your computer doesn't have that much go and adjust these settings before you power the image up.
+The image is given 2GB of ram and 2 CPU cores. If your computer doesn't have that much go and adjust these settings before you power the image up.
 
 ## What's on it
 
 - OS essentials (all of the latest updates, git-core, build-essential, openjdk, latest kernel, etc.)
-- NodeJS (via [nave](https://raw.github.com/isaacs/nave) which is at ~/nave.sh)
-- MongoDB (via apt-get ppa)
-- Redis (via apt-get ppa)
-- ElasticSearch
-- Sublime Text 3 (with package system)
+- Arduino IDE (so you can use [johnny-five](https://github.com/rwldrn/johnny-five) and make cool robots)
+- NodeJS 0.8 (via [nave](https://github.com/isaacs/nave) which is at ~/nave.sh)
+- MongoDB 2.4.5 (via apt-get ppa)
+- Redis 2.6.14 (via apt-get ppa)
+- ElasticSearch 0.90.2
+- Sublime Text 3 Beta (with package system)
   - Sidebar Enhancements plugin
   - Jade syntax plugin
   - Coffeescript syntax plugin
@@ -31,3 +32,4 @@ I have given the image 2gb of ram and 2 CPU cores. If your computer doesn't have
   - JS Format plugin
   - Git plugin (right click git commands)
   - DocBlockr plugin (simplifies writing jsdoc comments)
+- Empty ~/Projects folder
