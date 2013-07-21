@@ -17,6 +17,12 @@ The image is given 2GB of ram and 2 CPU cores. If your computer doesn't have tha
 ## What's on it
 
 - OS essentials (all of the latest updates, git-core, build-essential, openjdk, latest kernel, etc.)
+- Chromium
+  - Adblock Plus extension (with tracking removal and social media button removal)
+  - HTTPS Everywhere extension
+  - Search by Image extension
+  - JSONView extension
+  - Edit This Cookie extension
 - Arduino IDE (so you can use [johnny-five](https://github.com/rwldrn/johnny-five) and make cool robots)
 - NodeJS 0.8 (via [nave](https://github.com/isaacs/nave) which is at ~/nave.sh)
 - MongoDB 2.4.5 (via apt-get ppa)
