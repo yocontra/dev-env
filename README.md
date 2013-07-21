@@ -43,3 +43,5 @@ The image is given 2GB of ram and 2 CPU cores. If your computer doesn't have tha
 ## Contribution Guide
 
 If you have an improvement or update please compact the disk before commiting the file. You can do this by select the disk in Virtual Machine settings and the option is under Utilities.
+
+If you want to be a douchebag and add something malicous to the OS I will bust your ass with a diff so don't try it.
