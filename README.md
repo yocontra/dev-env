@@ -16,7 +16,7 @@ I have given the image 2gb of ram and 2 CPU cores. If your computer doesn't have
 
 ## What's on it
 
-- OS essentials (all of the latest updates, git-core, build-essential, latest kernel, etc.)
+- OS essentials (all of the latest updates, git-core, build-essential, openjdk, latest kernel, etc.)
 - NodeJS (via [nave](https://raw.github.com/isaacs/nave) which is at ~/nave.sh)
 - MongoDB (via apt-get ppa)
 - Redis (via apt-get ppa)
