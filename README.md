@@ -1,10 +1,10 @@
 ## What is this
 
-This is my base node.js development environment as a VMWare Workstation image.
+This is my base development environment in a VMWare Workstation image. You can get VMWare Workstation [here](https://www.vmware.com/products/workstation/) or [here if you are poor](http://thepiratebay.sx/torrent/8234229/VMware.Workstation.v9.0.2.1031769.Incl.Keymaker-ZWT)
 
-## OS?
+## OS
 
-Ubuntu 13.04 was chosen because it works well with VMWare - you shouldn't have any issues dropping it straight in.
+Ubuntu 13.04 was chosen because it has the best hardware support. You should be able to double click and run with no issues.
 
 Username: developer
 
