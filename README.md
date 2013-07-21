@@ -39,3 +39,7 @@ The image is given 2GB of ram and 2 CPU cores. If your computer doesn't have tha
   - Git plugin (right click git commands)
   - DocBlockr plugin (simplifies writing jsdoc comments)
 - Empty ~/Projects folder
+
+## Contribution Guide
+
+If you have an improvement or update please compact the disk before commiting the file. You can do this by select the disk in Virtual Machine settings and the option is under Utilities.
