@@ -1,3 +1,5 @@
+### I can't figure out how to get a 7GB file on github :( the VM will be up after that
+
 ## What is this
 
 This is my base development environment in a VMWare Workstation image. You can get VMWare Workstation [here](https://www.vmware.com/products/workstation/) or [here if you are poor](http://thepiratebay.sx/torrent/8234229/VMware.Workstation.v9.0.2.1031769.Incl.Keymaker-ZWT)
